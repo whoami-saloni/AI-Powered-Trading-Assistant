@@ -1,6 +1,7 @@
 # TradingView Stock Suggestion Scraper
 
-A Chrome Extension that scrapes stock tables from TradingView, sends the data to a backend AI model, and displays suggested promising stocks in a clean, interactive popup. It also highlights and clicks the suggested stock symbols on the page automatically.  
+A Chrome Extension that scrapes stock tables from [TradingView](https://www.tradingview.com/), sends the data to a backend AI model, and displays suggested promising stocks in a clean, interactive popup. It also highlights and clicks the suggested stock symbols on the page automatically.  
+ 
 
 ---
 
